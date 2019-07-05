@@ -333,4 +333,7 @@ data =pd.read_csv('Base.csv',sep=",", )
 print(type(data))
 data.head()
 
+
+
+
 ##### Para que es esta parte!!!!!!!!!!!!!!!!!!!
